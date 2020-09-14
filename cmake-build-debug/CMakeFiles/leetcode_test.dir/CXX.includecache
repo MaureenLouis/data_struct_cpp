@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/leetcode_test/main.cpp
+iostream
+-
+vector
+-
+union_find.h
+E:/leetcode_test/union_find.h
+
+E:/leetcode_test/union_find.h
+cassert
+-
+
